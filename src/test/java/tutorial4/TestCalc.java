@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import static tutorial4.Calc.add;
+import static tutorial4.Calc.subtract;
 
 /**
  * Unit test for simple App.
